@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 xxx
 b
+=======
+ccc
+y
+>>>>>>> conflict
 c
